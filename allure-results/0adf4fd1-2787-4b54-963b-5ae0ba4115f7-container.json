@@ -1,0 +1,1 @@
+{"uuid":"0adf4fd1-2787-4b54-963b-5ae0ba4115f7","name":"tests.GetTweetTests","children":["6dba58c8-ec3d-4698-b978-5e714ada72b4"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1764841690476,"stop":1764841690708}],"afters":[],"start":1764841690461,"stop":1764841691856}
